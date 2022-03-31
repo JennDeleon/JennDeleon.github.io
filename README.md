@@ -3,7 +3,6 @@ personal site
 
 ### 
 <h2 align="center">👋 Hello, my name is Jennifer Deleon<br><br>
-  <a href="www.linkedin.com/in/jennifer-deleon-288854222"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif"</img>
