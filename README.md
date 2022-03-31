@@ -29,4 +29,16 @@ personal site
   <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=JennDeleon&theme=onedark)](https://github.com/JennDeleon/github-profile-trophy)
+         
   </div>
+  <div align="center">  
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennDeleon&layout=compact&theme=vision-friendly-dark)](https://github.com/JennDeleon/github-readme-stats)
+    
+  </div>
+    <div align="center"> 
+      
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JennDeleon&theme=dark&background=000000)](https://git.io/streak-stats)
+      
+  </div>
+
