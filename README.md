@@ -27,8 +27,8 @@ personal site
   <br><br>
   <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=JennDeleon&theme=onedark)](https://github.com/JennDeleon/github-profile-trophy)
-         
+[![trophy](https://github-profile-trophy.vercel.app/?username=JennDeleon&theme=onedark)](https://github.com/JennDeleongithub-profile-trophy)
+    
   </div>
   <div align="center">  
     
