@@ -12,7 +12,11 @@ personal site
 <br>
   
 - :computer: I’m currently studying HTML, CSS, JavaScript, Java, MySQL and Spring at Codeup, along with React on my own time. <br>
-- 📫 How to reach me: jennifer.deleon404@gmail.com
+- 📫 How to reach me: jennifer.deleon404@gmail.com<br>
+-📌 I am very open to learning everthing I can to make myself a better programmer<br>
+- 🧐 Have a glance of my work [here](https://github.com/JennDeleon?tab=repositories)
+
+
 <br>
 <br>
 <br>
@@ -27,17 +31,28 @@ personal site
   <br><br>
   <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JennDeleon&theme=onedark)](https://github.com/JennDeleongithub-profile-trophy)
+## 🏆 My Trophies <br /> 
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=JennDeleon&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  <br /><br />
     
   </div>
   <div align="center">  
+    
+## 💻 My Stats <br /> 
+
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennDeleon&layout=compact&theme=vision-friendly-dark)](https://github.com/JennDeleon/github-readme-stats)
     
   </div>
     <div align="center"> 
       
+  ## 💫 My Streaks <br />  
+
+      
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JennDeleon&theme=dark&background=000000)](https://git.io/streak-stats)
       
   </div>
+  
+  
 
