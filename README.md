@@ -13,7 +13,7 @@ personal site
   
 - :computer: I’m currently studying HTML, CSS, JavaScript, Java, MySQL and Spring at Codeup, along with React on my own time. <br>
 - 📫 How to reach me: jennifer.deleon404@gmail.com<br>
--📌 I am very open to learning everthing I can to make myself a better programmer<br>
+- 📌 I am very open to learning everthing I can to make myself a better programmer<br>
 - 🧐 Have a glance of my work [here](https://github.com/JennDeleon?tab=repositories)
 
 
